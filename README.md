@@ -14,7 +14,7 @@ The simulation explores both idealised frictionless markets and more realistic c
 
 ## File Descriptions
 
-- **BSE.py**  
+- `BSE.py`  
   This file is taken from Dave Cliff's BSE. 
   - **Addition of PT2:** The Q-learning-based trader has been integrated.
   - **Real-World Conditions:** Both PT1 and PT2 are now simulated under realistic market conditions. 
@@ -31,11 +31,11 @@ The simulation explores both idealised frictionless markets and more realistic c
      - `Sideways`  
      - `Uptrend`
 
-- **functions.py**  
+- `functions.py`  
   This file includes the offsets functions (imported from DC's BSE) plus the flash crash offset.
 
 
-- `""".pdf`  
+- `***.pdf`  
   Plots.
 
 
