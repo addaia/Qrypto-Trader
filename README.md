@@ -23,20 +23,11 @@ The simulation explores both idealised frictionless markets and more realistic c
 - **Data Folders**  
   The simulation data is organised into separate folders reflecting different market conditions (data from simulations ran):
   1. **idealised_flash**  
-     - `Downtrend`  
-     - `Sideways`  
-     - `Uptrend`  
   2. **idealised_plain**  
-     - `Downtrend`  
-     - `Sideways`  
-     - `Uptrend`  
   3. **realistic_flash**  
-     - `Downtrend`  
-     - `Sideways`  
-     - `Uptrend`  
   4. **realistic_plain**  
+    All subdivided into:
      - `Downtrend`  
      - `Sideways`  
      - `Uptrend`  
-
 
