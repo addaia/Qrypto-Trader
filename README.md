@@ -27,9 +27,9 @@ The simulation explores both idealised frictionless markets and more realistic c
   3. **realistic_flash**  
   4. **realistic_plain**  
     All subdivided into:
-     - `Downtrend`  
-     - `Sideways`  
-     - `Uptrend`
+     - Downtrend 
+     - Sideways  
+     - Uptrend
 
 - `functions.py`  
   This file includes the offsets functions (imported from DC's BSE) plus the flash crash offset.
