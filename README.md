@@ -26,6 +26,10 @@ The simulation explores both idealised frictionless markets and more realistic c
   2. **idealised_plain**  
   3. **realistic_flash**  
   4. **realistic_plain**  
+
+  And the plain (no prefix):
+  5. (contains the BTC to USD files used)
+
     All subdivided into:
      - Downtrend 
      - Sideways  
