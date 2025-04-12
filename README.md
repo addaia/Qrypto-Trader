@@ -19,4 +19,24 @@ The simulation explores both idealised frictionless markets and more realistic c
   - **Addition of PT2:** The Q-learning-based trader has been integrated.
   - **Real-World Conditions:** Both PT1 and PT2 are now simulated under realistic market conditions. 
   - **Trade Statistics Tweaks:** Minor modifications have been made to how trade statistics and population parameters are calculated, ensuring that the new trader entries are accurately reflected.
+ 
+- **Data Folders**  
+  The simulation data is organised into separate folders reflecting different market conditions (data from simulations ran):
+  1. **idealised_flash**  
+     - `Downtrend`  
+     - `Sideways`  
+     - `Uptrend`  
+  2. **idealised_plain**  
+     - `Downtrend`  
+     - `Sideways`  
+     - `Uptrend`  
+  3. **realistic_flash**  
+     - `Downtrend`  
+     - `Sideways`  
+     - `Uptrend`  
+  4. **realistic_plain**  
+     - `Downtrend`  
+     - `Sideways`  
+     - `Uptrend`  
+
 
