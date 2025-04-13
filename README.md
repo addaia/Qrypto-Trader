@@ -42,7 +42,7 @@ The simulation explores both idealised frictionless markets and more realistic c
 - `***.pdf`  
   Plots.
 
-- - `notebook_plotter_results.ipynb` and `notebook_plotter_markettrends.ipynb`
+- `notebook_plotter_results.ipynb` and `notebook_plotter_markettrends.ipynb`
   These files are used to produce the plots from the available data (from folders).
 
 - `notebook_***_simulations.ipynb`  
